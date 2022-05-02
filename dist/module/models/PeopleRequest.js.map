@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["PeopleRequest.ts"],"sourcesContent":["import { People } from \"./People\";\n\nexport type PeopleRequest = {\n  count: number,\n  next: string | null,\n  previous: string | null,\n  results: People[],\n};"],"mappings":""}

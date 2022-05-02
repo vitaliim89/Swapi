@@ -1,0 +1,1 @@
+{"version":3,"names":["default","Swapi"],"sources":["index.ts"],"sourcesContent":["export { default as Swapi } from './Swapi';\n\n"],"mappings":"AAAA,SAASA,OAAO,IAAIC,KAApB,QAAiC,SAAjC"}
