@@ -1,8 +1,8 @@
+import { Swapi } from '@vitaliim89/swapiwrapper';
+import { People } from '@vitaliim89/swapiwrapper/dist/typescript/models/People';
 import { AppLoading } from 'expo';
 import React, { useState, useEffect } from 'react';
 import { FlatList, View, Text } from 'react-native';
-import { Swapi } from 'swapi';
-import { People } from 'swapi/dist/typescript/models/People';
 import styles from './styles';
 
 const Home: React.FC = () => {

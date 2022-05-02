@@ -1,18 +1,18 @@
 {
-  "name": "swapi",
+  "name": "@vitaliim89/swapiwrapper",
   "version": "0.1.0",
   "description": "Swapi wrapper",
   "main": "dist/module/index.js",
   "react-native": "dist/module/index.js",
   "module": "dist/module/index.js",
   "types": "dist/typescript/index.d.ts",
-  "author": "Vitalii",
+  "author": "vitaliym8979",
   "license": "MIT",
   "files": [
     "src",
     "dist"
   ],
-  "private": true,
+  "repository": "https://github.com/vitaliim89/Swapi",
   "dependencies": {
     "axios": "^0.27.2",
     "react-native-section-list-get-item-layout": "^2.2.3"

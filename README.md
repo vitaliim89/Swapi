@@ -11,13 +11,14 @@ it's Swapi wrapper library([https://swapi.dev]).
 
 ## Installation
 ```bash
-yarn add swapi
+yarn add @vitaliim89/swapiwrapper 
 ```
 
 ## Usage
 
 ```python
-  import { Swapi } from 'swapi';
+  import { Swapi } from '@vitaliim89/swapiwrapper';
+  import { People } from '@vitaliim89/swapiwrapper/dist/typescript/models/People';
 
   const swapi = new Swapi();
   let result = await swapi.getAllPeople();
@@ -45,6 +46,11 @@ Will add more further.
   edited: string,
   url: string,
 ```
+## How to test
+
+- Open example folder
+- run `yarn install`
+- run `yarn run ios` or `yarn run android`
 
 ## License
 

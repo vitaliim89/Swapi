@@ -1442,6 +1442,14 @@
     lodash "^4.5.0"
     prop-types "^15.6.1"
 
+"@vitaliim89/swapiwrapper@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@vitaliim89/swapiwrapper/-/swapiwrapper-0.1.0.tgz#49cb7a178701acb0244d9b806158e0dd63acca6b"
+  integrity sha512-BcBbvOnQW4hSClcpvS19sBgI1o8d+zTE591J/ZYkV5DnlOlQ4OGlbAWG70IsQKt9Kv3+qCE/5rswwtOh6Wr0Mg==
+  dependencies:
+    axios "^0.27.2"
+    react-native-section-list-get-item-layout "^2.2.3"
+
 "@xmldom/xmldom@~0.7.0":
   version "0.7.5"
   resolved "https://registry.yarnpkg.com/@xmldom/xmldom/-/xmldom-0.7.5.tgz#09fa51e356d07d0be200642b0e4f91d8e6dd408d"
@@ -5507,13 +5515,6 @@ supports-color@^7.1.0:
   integrity sha512-qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw==
   dependencies:
     has-flag "^4.0.0"
-
-swapi@../swapi-0.1.0.tgz:
-  version "0.1.0"
-  resolved "../swapi-0.1.0.tgz#aa4d14c5b1719064ccf2893f6fef381a2460c71d"
-  dependencies:
-    axios "^0.27.2"
-    react-native-section-list-get-item-layout "^2.2.3"
 
 symbol-observable@1.0.1:
   version "1.0.1"
